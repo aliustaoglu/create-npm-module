@@ -1,0 +1,1 @@
+A module to help you creating npm modules for ReactJS

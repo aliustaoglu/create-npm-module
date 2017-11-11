@@ -1,0 +1,23 @@
+{
+  "name": "create-npm-module",
+  "version": "0.0.1",
+  "description": "A module to help you creating npm modules for ReactJS",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-npm-module": "./bin/create-npm-module.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliustaoglu/create-npm-module.git"
+  },
+  "author": "Cuneyt Aliustaoglu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliustaoglu/create-npm-module/issues"
+  },
+  "homepage": "https://github.com/aliustaoglu/create-npm-module#readme"
+}
