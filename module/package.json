@@ -1,7 +1,7 @@
 {
   "name": "my-npm-module",
-  "version": "0.0.01",
-  "description": "Simple google maps for React.Js",
+  "version": "0.0.1",
+  "description": "Simple React component",
   "main": "build/index.js",
   "dependencies": {
     
@@ -24,17 +24,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aliustaoglu/react-js-google-maps.git"
+    "url": "git+https://github.com/aliustaoglu/create-npm-module.git"
   },
   "keywords": [
-    "react",
-    "google",
-    "maps"
+    "react"
   ],
   "author": "Cuneyt Aliustaoglu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aliustaoglu/react-js-google-maps/issues"
+    "url": "https://github.com/aliustaoglu/create-npm-module/issues"
   },
-  "homepage": "https://github.com/aliustaoglu/react-js-google-maps#readme"
+  "homepage": "https://github.com/aliustaoglu/create-npm-module#readme"
 }

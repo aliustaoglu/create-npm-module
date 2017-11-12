@@ -9,6 +9,7 @@ class MyReactModule extends Component {
   render() {
     return (
       <div>
+        MY REACT COMPONENT
       </div>
     );
   }
