@@ -1,6 +1,6 @@
 {
   "name": "create-npm-module",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A module to help you creating npm modules for ReactJS",
   "main": "./src/index.js",
   "scripts": {
